@@ -4,7 +4,7 @@ Machine learning can be used to distinguish between honey bee and bumble bee. Th
 <img src="bees.jpg">
 
 ## Tutorial
-More detailed steps available on jupyter notebook:
+More detailed steps available on jupyter notebook. You can see the result [here](https://www.kaggle.com/lazuardinfl/bees-species-classifier) or you can try the demo itself [here](https://www.kaggle.com/kernels/fork/18137737).
 1. Import python libraries: numpy, pandas, keras, scikit-learn
 2. Load the DataFrame of labels and image names
 3. Load the first image from DataFrame and examine
